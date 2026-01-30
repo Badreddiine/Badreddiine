@@ -156,5 +156,4 @@
 </p>
 
 ---
-rom <a href="https://github.com/TON_USERNAME">TON_USERNAME</a></i>
 </p>
